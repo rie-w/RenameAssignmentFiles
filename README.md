@@ -17,7 +17,8 @@
 
 * 緑色のClone or downloadのボタンからDownloadZipを選択してダウンロード
 * ダウンロードされたzipファイルを解凍
-* 解凍されたフォルダ内にあるrename.batを教材のフォルダ（英数名のpdfやReadMe.csvがあるフォルダです）にコピペする
+* 期のはじめに配布されるアサインメントの場合,解凍されたフォルダ内にあるrename_assignment.batを教材のフォルダ（英数名のpdfやReadMe.csvがあるフォルダです）にコピペする
+* 各授業後に配布されるハンドアウトの場合、解凍されたフォルダ内にあるrename_handout.batを教材のフォルダ（英数名のpdfやReadMe.csvがあるフォルダです）にコピペする
 * rename.datをクリックして実行
 
 
